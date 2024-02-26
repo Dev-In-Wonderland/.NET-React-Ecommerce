@@ -1,0 +1,127 @@
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\appsettings.Development.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\appsettings.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.exe
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.deps.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.runtimeconfig.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.pdb
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Cors.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Http.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Http.Cors.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.csproj.AssemblyReference.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.AssemblyInfoInputs.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.AssemblyInfo.cs
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.csproj.CoreCompileInputs.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.MvcApplicationPartsAssemblyInfo.cs
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets.build.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets.development.json
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\scopedcss\bundle\EMedicineBackEnd.styles.css
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.csproj.CopyComplete
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\refint\EMedicineBackEnd.dll
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.pdb
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.genruntimeconfig.cache
+D:\Youtube Channel\HTML Tutorial\other topic\Full Stack\EMedicine\EMedicineBackEnd\EMedicineBackEnd\obj\Debug\net6.0\ref\EMedicineBackEnd.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.exe
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.deps.json
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.runtimeconfig.json
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.pdb
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.csproj.AssemblyReference.cache
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.AssemblyInfoInputs.cache
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.AssemblyInfo.cs
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets\msbuild.EMedicineBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets\msbuild.build.EMedicineBackEnd.props
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMedicineBackEnd.props
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMedicineBackEnd.props
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\scopedcss\bundle\EMedicineBackEnd.styles.css
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\refint\EMedicineBackEnd.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.pdb
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.genruntimeconfig.cache
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\ref\EMedicineBackEnd.dll
+C:\Users\Betacom\Desktop\Nuova cartella (2)\EMedicineBackEnd_Final\EMedicineBackEnd\obj\Debug\net6.0\EMedicin.67438FC8.Up2Date
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\appsettings.json
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.exe
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.deps.json
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.runtimeconfig.json
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\EMedicineBackEnd.pdb
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Cors.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\System.Web.Http.Cors.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.csproj.AssemblyReference.cache
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.AssemblyInfoInputs.cache
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.AssemblyInfo.cs
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets\msbuild.EMedicineBackEnd.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets\msbuild.build.EMedicineBackEnd.props
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EMedicineBackEnd.props
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EMedicineBackEnd.props
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\scopedcss\bundle\EMedicineBackEnd.styles.css
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicin.67438FC8.Up2Date
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\refint\EMedicineBackEnd.dll
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.pdb
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\EMedicineBackEnd.genruntimeconfig.cache
+C:\Users\Betacom\Desktop\E-commerce with .NET and React\backend\EMedicineBackEnd\obj\Debug\net6.0\ref\EMedicineBackEnd.dll
