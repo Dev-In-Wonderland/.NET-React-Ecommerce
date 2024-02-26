@@ -3,46 +3,37 @@ Functional structure of e-commerce with React as frontend and .NET as backend
 
 ### Adding an Admin User to the Database
 
-1. **Identify the Database Schema**: Before adding a row for the Admin user, it's crucial to understand the database schema. This involves knowing the specific table where user information is stored (e.g., `Users` table) and the required fields for creating a new user (e.g., `username`, `password`, `role`).
+Given the schema details, the SQL query to insert an Admin user into the `Users` table will need to include values for all required fields. Assuming `Fund`, `Type`, `Status`, and `CreatedOn` are mandatory, and considering best practices for password storage (hashing the password before storing it), here's a more detailed approach:
 
-2. **Prepare the SQL Query**: With the schema in mind, prepare an SQL INSERT statement to add a new row to the user table. For an Admin user, you might need to set a specific role or permission level that differentiates it from regular users. For example:
+1. **Prepare the SQL Insert Statement**: Based on the schema, prepare a statement that includes all necessary fields. If `Type` is used to differentiate user roles, ensure to set it appropriately for an admin. For the sake of this example, let's assume `Type` = 'Admin', `Status` = 1, and you have a mechanism to hash the password. Here's a hypothetical SQL query:
+
    ```sql
-   INSERT INTO Users (username, password, role) VALUES ('admin', 'encrypted_password_here', 'admin');
+   INSERT INTO [EMedicine].[dbo].[Users]
+       ([FirstName], [LastName], [Password], [Email], [Fund], [Type], [Status], [CreatedOn])
+   VALUES
+       ('admin', 'admin', 'admin', 'admin', 0, 'admin', 1, GETDATE());
    ```
-   Make sure to replace `'encrypted_password_here'` with a securely hashed password.
+   
+`GETDATE()` sets the current date and time for the `CreatedOn` field.
 
-3. **Execute the Query**: Use the database management tool or the project's database access layer to execute this query. This might involve using a database client directly or running a script within the project that interacts with the database.
+2. **Execute the Query**: Use your database management tool (such as SQL Server Management Studio for SQL Server databases) to execute this insert statement. Ensure you have the necessary permissions to insert data into the database.
 
 ### Setting up the .NET Backend
 
-1. **Open the .NET Solution in Visual Studio**: Launch Visual Studio, then open the solution file (`.sln`) for your .NET project. This solution file contains the project configuration and references necessary for building and running your backend.
-
-2. **Build the Solution**: Before running, ensure that the solution builds successfully. Go to the `Build` menu and select `Build Solution`. This process compiles the code and checks for any compilation errors.
-
-3. **Run the Project**: Once the build is successful, you can run the project by clicking on the `Debug` menu and selecting `Start Without Debugging`. This launches the application, starting the backend server on a designated port.
+1. **Review Database Connection Settings**: Before running your .NET solution, review the application's configuration files (e.g., `appsettings.json`) to ensure that the database connection string is correctly set up to connect to your `EMedicine` database.
+   
+2. **Run the Solution**: Follow the previously described steps to build and run your .NET solution from Visual Studio.
 
 ### Setting up the React Frontend
 
-1. **Open the Frontend Project in Visual Studio Code**: Navigate to the folder containing the frontend project and open it in Visual Studio Code. This IDE is optimized for web development and provides an excellent environment for working with React projects.
+Proceed as previously outlined to set up the React frontend. With your backend running, ensure the frontend can communicate with it, especially for login functionality. Given the updated user schema, make sure your login component is prepared to handle authentication correctly, using the `Email` and `Password` fields for login credentials.
 
-2. **Install Dependencies**: Open the integrated terminal in Visual Studio Code (using `Ctrl+`` or navigating through the menu `View` -> `Terminal`). In the terminal, run:
-   ```bash
-   npm install
-   ```
-   This command installs all the dependencies listed in your project's `package.json` file. It's crucial for ensuring that all the necessary libraries and frameworks are available for your project.
+### Testing Admin User Login
 
-3. **Start the Development Server**: After the installation completes, start the development server by running:
-   ```bash
-   npm start
-   ```
-   This command compiles your React application and serves it, usually on `http://localhost:3000`. Your default web browser might automatically open this URL.
+After setting up both backend and frontend:
 
-### Testing the Integration
+1. **Log in Using the Admin Credentials**: With the frontend application running, attempt to log in using the `Email` and `Password` you set for your Admin user. This will help verify that the Admin user has been successfully added and can log in.
 
-After setting up both the backend and frontend:
+2. **Verify Admin Access**: Once logged in, ensure the Admin user has access to the expected areas of the application, aligning with the `Type` = 'admin' role.
 
-1. **Verify Backend Connectivity**: Ensure that the frontend application can communicate with the backend server. This might involve checking environment variables or configuration files that specify the backend URL.
-
-2. **Login as Admin**: Test the login functionality by entering the credentials of the Admin user you added to the database. This step is crucial to verify that the integration works and the Admin user has the expected access and permissions.
-
-By following these more technical and detailed instructions, you'll have a thorough setup and testing process for adding an Admin user to your application and ensuring both the backend and frontend components are correctly configured and integrated.
+By following these detailed steps, tailored to your database schema and project setup, you should be able to successfully add an Admin user to your database and integrate this functionality into your .NET and React projects.
